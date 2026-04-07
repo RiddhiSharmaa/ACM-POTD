@@ -1,4 +1,4 @@
-# 739. Daily Temperatures
+# 7225. Implement Stack using Queues
 
 ![alt text](image-15.png)
 

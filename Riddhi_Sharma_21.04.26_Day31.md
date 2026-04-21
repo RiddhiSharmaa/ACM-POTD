@@ -18,4 +18,4 @@ Each time you can either climb 1 or 2 steps. In how many distinct ways can you c
 ## Time & Space Complexity
 
 * **Time:** O(n)
-* **Space:** O(1)
+* **Space:** O(n)
